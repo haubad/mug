@@ -54,7 +54,7 @@ p {
 .top{margin-top: 0;}
 
 .bigbox {
-    padding: 10px;
+    padding: 30px;
     border: 0px solid #ccc;
     background-color: #fff;
     
@@ -65,6 +65,7 @@ p {
 .box {
     border: 1px solid #ccc;
     background-color: #fff;
+    border-radius: 10px;
 }
 
 .mockup-overlay {
